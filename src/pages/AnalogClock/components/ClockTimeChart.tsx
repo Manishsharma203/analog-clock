@@ -103,9 +103,7 @@ const ClockTimeChart = (props: IProps) => {
               className={styles.flexCenter}
               style={{
                 background:
-                  indexToDisplayNumber(index) !== null
-                    ? "black"
-                    : "transparent",
+                  indexToDisplayNumber(index) !== null ? "black" : "#d8d8d8",
               }}
             >
               <span

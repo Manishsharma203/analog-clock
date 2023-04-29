@@ -69,7 +69,7 @@
 }
 .displayNumber {
   position: absolute;
-  top: 5%;
+  top: 10px;
   text-align: center;
 }
 .hourMarking {
